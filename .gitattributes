@@ -1,0 +1,2 @@
+# Catalog bytes are pinned by SHA-256 in the plugin bundles: never convert line endings.
+* text eol=lf
