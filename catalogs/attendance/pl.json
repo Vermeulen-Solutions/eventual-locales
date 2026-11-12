@@ -61,6 +61,7 @@
   "admin.colEmail": "E-mail",
   "admin.colDateTime": "Data",
   "admin.colAction": "Czynności",
+  "admin.colCancel": " ",
   "admin.noAttendeesSelection": "Na ten wybór nikt się jeszcze nie zapisał.",
   "admin.noRsvps": "Nikt się jeszcze nie zapisał. Zapisy pojawią się tu, gdy tylko nadejdą.",
   "admin.settingsHeader": "Ustawienia zapisów",

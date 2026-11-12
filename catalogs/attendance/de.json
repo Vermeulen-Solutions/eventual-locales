@@ -61,6 +61,7 @@
   "admin.colEmail": "E-Mail",
   "admin.colDateTime": "Datum",
   "admin.colAction": "Aktionen",
+  "admin.colCancel": " ",
   "admin.noAttendeesSelection": "Für diese Auswahl hat sich noch niemand angemeldet.",
   "admin.noRsvps": "Noch niemand hat sich angemeldet. Anmeldungen erscheinen hier, sobald sie eingehen.",
   "admin.settingsHeader": "Anmeldeeinstellungen",

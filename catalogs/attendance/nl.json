@@ -61,6 +61,7 @@
   "admin.colEmail": "E-mail",
   "admin.colDateTime": "Datum",
   "admin.colAction": "Acties",
+  "admin.colCancel": " ",
   "admin.noAttendeesSelection": "Voor deze selectie heeft zich nog niemand aangemeld.",
   "admin.noRsvps": "Nog niemand heeft zich aangemeld. Aanmeldingen verschijnen hier zodra ze binnenkomen.",
   "admin.settingsHeader": "Aanmeldingsinstellingen",

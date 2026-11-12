@@ -61,6 +61,7 @@
   "admin.colEmail": "E-mail",
   "admin.colDateTime": "Dato",
   "admin.colAction": "Handlinger",
+  "admin.colCancel": " ",
   "admin.noAttendeesSelection": "Ingen har tilmeldt sig dette udvalg endnu.",
   "admin.noRsvps": "Ingen har tilmeldt sig endnu. Tilmeldinger vises her, når de kommer ind.",
   "admin.settingsHeader": "Tilmeldingsindstillinger",

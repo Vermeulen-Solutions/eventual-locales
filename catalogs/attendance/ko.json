@@ -61,6 +61,7 @@
   "admin.colEmail": "이메일",
   "admin.colDateTime": "날짜",
   "admin.colAction": "작업",
+  "admin.colCancel": " ",
   "admin.noAttendeesSelection": "이 조건으로 신청한 사람이 아직 없습니다.",
   "admin.noRsvps": "아직 신청한 사람이 없습니다. 신청이 들어오면 여기에 표시됩니다.",
   "admin.settingsHeader": "신청 설정",

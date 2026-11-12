@@ -61,6 +61,7 @@
   "admin.colEmail": "البريد الإلكتروني",
   "admin.colDateTime": "التاريخ",
   "admin.colAction": "الإجراءات",
+  "admin.colCancel": " ",
   "admin.noAttendeesSelection": "لم يسجّل أحد في هذا الاختيار بعد.",
   "admin.noRsvps": "لم يسجّل أحد بعد. تظهر التسجيلات هنا عند وصولها.",
   "admin.settingsHeader": "إعدادات التسجيل",

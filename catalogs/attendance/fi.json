@@ -61,6 +61,7 @@
   "admin.colEmail": "Sähköposti",
   "admin.colDateTime": "Päivämäärä",
   "admin.colAction": "Toiminnot",
+  "admin.colCancel": " ",
   "admin.noAttendeesSelection": "Tähän valintaan ei ole vielä ilmoittautunut ketään.",
   "admin.noRsvps": "Kukaan ei ole vielä ilmoittautunut. Ilmoittautumiset näkyvät täällä sitä mukaa kuin niitä tulee.",
   "admin.settingsHeader": "Ilmoittautumisasetukset",

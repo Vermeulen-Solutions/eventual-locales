@@ -61,6 +61,7 @@
   "admin.colEmail": "E-post",
   "admin.colDateTime": "Datum",
   "admin.colAction": "Åtgärder",
+  "admin.colCancel": " ",
   "admin.noAttendeesSelection": "Ingen har anmält sig till det här urvalet än.",
   "admin.noRsvps": "Ingen har anmält sig än. Anmälningar visas här när de kommer in.",
   "admin.settingsHeader": "Anmälningsinställningar",

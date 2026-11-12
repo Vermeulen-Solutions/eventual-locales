@@ -61,6 +61,7 @@
   "admin.colEmail": "E-posta",
   "admin.colDateTime": "Tarih",
   "admin.colAction": "İşlemler",
+  "admin.colCancel": " ",
   "admin.noAttendeesSelection": "Bu seçim için henüz kimse kaydolmadı.",
   "admin.noRsvps": "Henüz kimse kaydolmadı. Kayıtlar geldikçe burada görünür.",
   "admin.settingsHeader": "Kayıt ayarları",

@@ -61,6 +61,7 @@
   "admin.colEmail": "メール",
   "admin.colDateTime": "日付",
   "admin.colAction": "操作",
+  "admin.colCancel": " ",
   "admin.noAttendeesSelection": "この条件ではまだ申し込みがありません。",
   "admin.noRsvps": "まだ申し込みはありません。申し込みがあるとここに表示されます。",
   "admin.settingsHeader": "申し込みの設定",

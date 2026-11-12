@@ -61,6 +61,7 @@
   "admin.colEmail": "Email",
   "admin.colDateTime": "Дата",
   "admin.colAction": "Дії",
+  "admin.colCancel": " ",
   "admin.noAttendeesSelection": "Для цього вибору ще ніхто не зареєструвався.",
   "admin.noRsvps": "Ще ніхто не зареєструвався. Реєстрації з'являтимуться тут у міру надходження.",
   "admin.settingsHeader": "Налаштування реєстрації",

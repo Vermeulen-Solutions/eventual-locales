@@ -61,6 +61,7 @@
   "admin.colEmail": "E-mail",
   "admin.colDateTime": "Datum",
   "admin.colAction": "Akce",
+  "admin.colCancel": " ",
   "admin.noAttendeesSelection": "Pro tento výběr se zatím nikdo neregistroval.",
   "admin.noRsvps": "Zatím se nikdo neregistroval. Registrace se tu objeví, jakmile přijdou.",
   "admin.settingsHeader": "Nastavení registrací",

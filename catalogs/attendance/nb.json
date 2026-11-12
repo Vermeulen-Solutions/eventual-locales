@@ -61,6 +61,7 @@
   "admin.colEmail": "E-post",
   "admin.colDateTime": "Dato",
   "admin.colAction": "Handlinger",
+  "admin.colCancel": " ",
   "admin.noAttendeesSelection": "Ingen har meldt seg på dette utvalget ennå.",
   "admin.noRsvps": "Ingen har meldt seg på ennå. Påmeldinger vises her etter hvert som de kommer inn.",
   "admin.settingsHeader": "Påmeldingsinnstillinger",

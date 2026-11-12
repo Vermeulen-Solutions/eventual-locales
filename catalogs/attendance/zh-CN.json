@@ -61,6 +61,7 @@
   "admin.colEmail": "电子邮件",
   "admin.colDateTime": "日期",
   "admin.colAction": "操作",
+  "admin.colCancel": " ",
   "admin.noAttendeesSelection": "此筛选条件下尚无人报名。",
   "admin.noRsvps": "尚无人报名。有人报名后会显示在这里。",
   "admin.settingsHeader": "报名设置",
