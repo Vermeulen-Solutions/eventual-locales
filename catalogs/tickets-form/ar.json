@@ -81,6 +81,7 @@
   "order.client.door": "أظهر رمز QR هذا عند الدخول. صالح لـ {n} {people}.",
   "order.client.person": "شخص",
   "order.client.people": "شخص",
+  "order.client.peopleTwo": "شخصان",
   "order.client.peopleFew": "أشخاص",
   "order.client.peopleMany": "شخصًا",
   "order.client.checkedIn": "سُجّل الدخول {when}.",

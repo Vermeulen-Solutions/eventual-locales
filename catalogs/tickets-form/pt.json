@@ -81,6 +81,7 @@
   "order.client.door": "Mostre este código QR à entrada. É válido para {n} {people}.",
   "order.client.person": "pessoa",
   "order.client.people": "pessoas",
+  "order.client.peopleTwo": "pessoas",
   "order.client.peopleFew": "pessoas",
   "order.client.peopleMany": "pessoas",
   "order.client.checkedIn": "Entrada registada {when}.",

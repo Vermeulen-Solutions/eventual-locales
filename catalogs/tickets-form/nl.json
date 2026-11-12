@@ -81,6 +81,7 @@
   "order.client.door": "Laat deze QR-code zien bij de ingang. Hij geeft toegang aan {n} {people}.",
   "order.client.person": "persoon",
   "order.client.people": "personen",
+  "order.client.peopleTwo": "personen",
   "order.client.peopleFew": "personen",
   "order.client.peopleMany": "personen",
   "order.client.checkedIn": "Ingecheckt {when}.",

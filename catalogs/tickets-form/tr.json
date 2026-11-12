@@ -81,6 +81,7 @@
   "order.client.door": "Girişte bu QR kodunu gösterin. {n} {people} için geçerlidir.",
   "order.client.person": "kişi",
   "order.client.people": "kişi",
+  "order.client.peopleTwo": "kişi",
   "order.client.peopleFew": "kişi",
   "order.client.peopleMany": "kişi",
   "order.client.checkedIn": "Giriş yapıldı: {when}.",

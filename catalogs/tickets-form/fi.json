@@ -81,6 +81,7 @@
   "order.client.door": "Näytä tämä QR-koodi sisäänkäynnillä. Henkilöitä: {n}.",
   "order.client.person": "henkilö",
   "order.client.people": "henkilöä",
+  "order.client.peopleTwo": "henkilöä",
   "order.client.peopleFew": "henkilöä",
   "order.client.peopleMany": "henkilöä",
   "order.client.checkedIn": "Sisäänkirjattu {when}.",

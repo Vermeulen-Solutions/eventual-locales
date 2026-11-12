@@ -81,6 +81,7 @@
   "order.client.door": "입장 시 이 QR 코드를 보여 주세요. {n}{people}까지 입장할 수 있습니다.",
   "order.client.person": "명",
   "order.client.people": "명",
+  "order.client.peopleTwo": "명",
   "order.client.peopleFew": "명",
   "order.client.peopleMany": "명",
   "order.client.checkedIn": "{when}에 입장했습니다.",

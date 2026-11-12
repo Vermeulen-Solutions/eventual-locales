@@ -81,6 +81,7 @@
   "order.client.door": "Покажіть цей QR-код на вході. Дійсний на {n} {people}.",
   "order.client.person": "особу",
   "order.client.people": "особи",
+  "order.client.peopleTwo": "особи",
   "order.client.peopleFew": "особи",
   "order.client.peopleMany": "осіб",
   "order.client.checkedIn": "Зареєстровано на вході {when}.",

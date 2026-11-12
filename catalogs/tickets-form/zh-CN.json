@@ -81,6 +81,7 @@
   "order.client.door": "入场时请出示此二维码。可供 {n} {people}入场。",
   "order.client.person": "人",
   "order.client.people": "人",
+  "order.client.peopleTwo": "人",
   "order.client.peopleFew": "人",
   "order.client.peopleMany": "人",
   "order.client.checkedIn": "已于 {when} 签到。",

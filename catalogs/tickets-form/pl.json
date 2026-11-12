@@ -81,6 +81,7 @@
   "order.client.door": "Pokaż ten kod QR przy wejściu. Uprawnia do wejścia: {n} {people}.",
   "order.client.person": "osoba",
   "order.client.people": "osoby",
+  "order.client.peopleTwo": "osoby",
   "order.client.peopleFew": "osoby",
   "order.client.peopleMany": "osób",
   "order.client.checkedIn": "Zameldowano {when}.",

@@ -81,6 +81,7 @@
   "order.client.door": "Vis denne QR-kode ved indgangen. Den gælder for {n} {people}.",
   "order.client.person": "person",
   "order.client.people": "personer",
+  "order.client.peopleTwo": "personer",
   "order.client.peopleFew": "personer",
   "order.client.peopleMany": "personer",
   "order.client.checkedIn": "Tjekket ind {when}.",

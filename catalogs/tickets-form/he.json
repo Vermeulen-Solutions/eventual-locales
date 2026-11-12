@@ -81,6 +81,7 @@
   "order.client.door": "הציגו את קוד ה-QR הזה בכניסה. הוא תקף ל-{n} {people}.",
   "order.client.person": "אדם",
   "order.client.people": "אנשים",
+  "order.client.peopleTwo": "אנשים",
   "order.client.peopleFew": "אנשים",
   "order.client.peopleMany": "אנשים",
   "order.client.checkedIn": "נרשמה כניסה {when}.",

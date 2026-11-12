@@ -81,6 +81,7 @@
   "order.client.door": "入口でこの QR コードをご提示ください。{n} {people}まで入場できます。",
   "order.client.person": "名",
   "order.client.people": "名",
+  "order.client.peopleTwo": "名",
   "order.client.peopleFew": "名",
   "order.client.peopleMany": "名",
   "order.client.checkedIn": "{when} に入場済み。",

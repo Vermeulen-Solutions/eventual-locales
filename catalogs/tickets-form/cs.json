@@ -81,6 +81,7 @@
   "order.client.door": "Ukažte tento QR kód u vstupu. Vstup pro: {n} {people}.",
   "order.client.person": "osoba",
   "order.client.people": "osob",
+  "order.client.peopleTwo": "osob",
   "order.client.peopleFew": "osoby",
   "order.client.peopleMany": "osoby",
   "order.client.checkedIn": "Odbaveno {when}.",

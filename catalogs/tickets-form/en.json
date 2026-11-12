@@ -81,6 +81,7 @@
   "order.client.door": "Show this QR code at the door. It admits {n} {people}.",
   "order.client.person": "person",
   "order.client.people": "people",
+  "order.client.peopleTwo": "people",
   "order.client.peopleFew": "people",
   "order.client.peopleMany": "people",
   "order.client.checkedIn": "Checked in {when}.",
