@@ -81,6 +81,8 @@
   "order.client.door": "Zeigen Sie diesen QR-Code am Eingang. Er gilt für {n} {people}.",
   "order.client.person": "Person",
   "order.client.people": "Personen",
+  "order.client.peopleFew": "Personen",
+  "order.client.peopleMany": "Personen",
   "order.client.checkedIn": "Eingecheckt {when}.",
   "order.client.refundRequested": "Ihre Erstattung wurde angefordert; es kann einige Tage dauern, bis sie auf Ihrer Karte ist.",
   "order.client.cancelUntil": "Sie können bis {when} stornieren.",

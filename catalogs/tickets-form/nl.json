@@ -81,6 +81,8 @@
   "order.client.door": "Laat deze QR-code zien bij de ingang. Hij geeft toegang aan {n} {people}.",
   "order.client.person": "persoon",
   "order.client.people": "personen",
+  "order.client.peopleFew": "personen",
+  "order.client.peopleMany": "personen",
   "order.client.checkedIn": "Ingecheckt {when}.",
   "order.client.refundRequested": "Uw terugbetaling is aangevraagd; het kan een paar dagen duren voordat die op uw kaart staat.",
   "order.client.cancelUntil": "U kunt annuleren tot {when}.",

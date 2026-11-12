@@ -81,6 +81,8 @@
   "order.client.door": "Mostre este QR code na entrada. Ele vale para {n} {people}.",
   "order.client.person": "pessoa",
   "order.client.people": "pessoas",
+  "order.client.peopleFew": "pessoas",
+  "order.client.peopleMany": "pessoas",
   "order.client.checkedIn": "Entrada registrada {when}.",
   "order.client.refundRequested": "Seu reembolso foi solicitado; pode levar alguns dias para chegar ao seu cartão.",
   "order.client.cancelUntil": "Você pode cancelar até {when}.",

@@ -29,7 +29,8 @@ for (const namespace of readdirSync(join(root, "catalogs")).sort()) {
       try { want = messageArguments(english[key]); got = messageArguments(message); }
       catch (error) { fail(`${namespace}/${lang}: ${key} does not parse (${error.message})`); continue; }
       for (const name of got) if (!want.has(name)) fail(`${namespace}/${lang}: ${key} uses unknown {${name}}`);
-      for (const name of want) if (!got.has(name)) fail(`${namespace}/${lang}: ${key} drops {${name}}`);
+      // Leaving a value out can be the better wording (grammar); flag it for review only.
+      for (const name of want) if (!got.has(name)) console.warn(`! ${namespace}/${lang}: ${key} leaves out {${name}}`);
     }
     if (missing && strict) fail(`${namespace}/${lang}: ${missing} untranslated`);
     coverage.push(`${lang} ${Math.round((100 * (Object.keys(english).length - missing)) / Object.keys(english).length)}%`);

@@ -81,6 +81,8 @@
   "order.client.door": "Show this QR code at the door. It admits {n} {people}.",
   "order.client.person": "person",
   "order.client.people": "people",
+  "order.client.peopleFew": "people",
+  "order.client.peopleMany": "people",
   "order.client.checkedIn": "Checked in {when}.",
   "order.client.refundRequested": "Your refund has been requested; it can take a few days to reach your card.",
   "order.client.cancelUntil": "You can cancel until {when}.",
