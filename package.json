@@ -3,6 +3,14 @@
   "version": "0.1.1",
   "description": "Translations and the shared message runtime for the Eventual EmDash plugins.",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vermeulen-Solutions/eventual-locales.git"
+  },
+  "homepage": "https://github.com/Vermeulen-Solutions/eventual-locales#readme",
+  "bugs": {
+    "url": "https://github.com/Vermeulen-Solutions/eventual-locales/issues"
+  },
   "type": "module",
   "engines": {
     "node": ">=24"
