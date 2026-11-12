@@ -1,0 +1,37 @@
+{
+  "name": "@vermeulen.solutions/eventual-locales",
+  "version": "0.1.0",
+  "description": "Translations and the shared message runtime for the Eventual EmDash plugins.",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "packageManager": "npm@11.19.0",
+  "sideEffects": false,
+  "exports": {
+    ".": {
+      "types": "./runtime/index.d.mts",
+      "import": "./runtime/index.mjs"
+    },
+    "./manifest.json": "./manifest.json",
+    "./catalogs/*": "./catalogs/*"
+  },
+  "bin": {
+    "eventual-locales-pack": "./scripts/pack-manifest.mjs"
+  },
+  "files": [
+    "runtime",
+    "catalogs",
+    "scripts/pack-manifest.mjs",
+    "manifest.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "check": "node scripts/check.mjs",
+    "manifest": "node scripts/manifest.mjs",
+    "test": "node --test test/*.test.mjs && node scripts/check.mjs",
+    "prepublishOnly": "node scripts/manifest.mjs --verify && node scripts/check.mjs --strict"
+  }
+}
