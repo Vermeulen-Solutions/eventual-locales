@@ -23,6 +23,10 @@ for (const file of ["format.mjs", "locale.mjs", "messages.mjs", "pack.mjs", "ind
   const source = readFileSync(new URL(`../runtime/${file}`, import.meta.url), "utf8");
   writeFileSync(join(outDir, file), header + source);
 }
-const body = JSON.stringify({ package: manifest.package, version: manifest.version, namespace, hashes });
+// Bundles pin the first 128 bits of each SHA-256 in base64 (22 characters, not 64 hex): still
+// far beyond forging, and it keeps 20 languages under 500 bytes of the 128 KiB file limit.
+const packHash = (hex) => Buffer.from(hex.slice(0, 32), "hex").toString("base64").slice(0, 22);
+const pinned = Object.fromEntries(Object.entries(hashes).map(([lang, hex]) => [lang, packHash(hex)]));
+const body = JSON.stringify({ package: manifest.package, version: manifest.version, namespace, hashes: pinned });
 writeFileSync(join(outDir, "manifest.ts"), `${header}export default ${body};\n`);
 console.log(`${outDir}: runtime + ${namespace} @ ${manifest.version}, ${Object.keys(hashes).length} languages`);

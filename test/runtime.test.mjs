@@ -57,7 +57,7 @@ test("translates English text keys and templates", () => {
 
 test("loads a pinned pack once, then from KV, and refuses tampered packs", async () => {
   const body = JSON.stringify({ Events: "Événements" });
-  const hash = createHash("sha256").update(body).digest("hex");
+  const hash = createHash("sha256").update(body).digest().subarray(0, 16).toString("base64").slice(0, 22);
   const manifest = { package: "@x/locales", version: "1.0.0", namespace: "core", hashes: { fr: hash, de: hash } };
   const kv = new Map();
   let fetches = 0;
@@ -103,7 +103,7 @@ test("captures prefer in-sentence lowercase entries", () => {
 
 test("warms missing packs in the background, site language first, within budget", async () => {
   const bodies = { fr: JSON.stringify({ a: "fr" }), de: JSON.stringify({ a: "de" }), it: JSON.stringify({ a: "it" }) };
-  const hash = (s) => createHash("sha256").update(s).digest("hex");
+  const hash = (s) => createHash("sha256").update(s).digest().subarray(0, 16).toString("base64").slice(0, 22);
   const manifest = { package: "@x/l", version: "2.0.0", namespace: "tickets", hashes: Object.fromEntries(Object.entries(bodies).map(([l, b]) => [l, hash(b)])) };
   const kv = new Map();
   let calls = 0;
