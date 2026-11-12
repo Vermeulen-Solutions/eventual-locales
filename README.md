@@ -1,6 +1,6 @@
 # @vermeulen.solutions/eventual-locales
 
-Translations for the Eventual EmDash plugins (Eventual, Eventual Tickets, Eventual Attendance), plus the small message runtime they share.
+Translations for the Eventual RSVP EmDash plugins (Eventual RSVP, Eventual RSVP – Tickets, Eventual RSVP – Registrations), plus the small message runtime they share.
 
 Each plugin ships with English built in. Other languages are downloaded as data, so adding a language does not make a plugin bundle any larger. That matters because the EmDash sandbox limits each file to 128 KiB.
 
@@ -12,7 +12,7 @@ English (built in) plus `fr`, `de`, `nl`, `es`, `it`, `pt`, `pt-BR`, `pl`, `cs`,
 
 1. **Build:** `eventual-locales-pack <namespace> <outDir>` copies the runtime into the plugin source. The plugin CLI keeps npm dependencies external, so the runtime must be copied. The command also writes `manifest.ts`, which pins this package's version and a hash of every catalog for that namespace.
 2. **First use:** the plugin fetches `https://cdn.jsdelivr.net/npm/@vermeulen.solutions/eventual-locales@<version>/catalogs/<namespace>/<lang>.json`. It accepts the file only if the file's SHA-256 matches the pinned hash, then stores it in plugin KV under `i18n:<namespace>:<version>:<lang>`.
-3. **Later requests:** packs are read from the isolate's memory, then from KV. Eventual (Core) downloads directly when the request still has RPC budget left. Tickets and Attendance only read KV. Their `*-language-packs` cron task (every 10 minutes) downloads missing packs, the site language first.
+3. **Later requests:** packs are read from the isolate's memory, then from KV. Eventual RSVP – Core downloads directly when the request still has RPC budget left. Tickets and Attendance only read KV. Their `*-language-packs` cron task (every 10 minutes) downloads missing packs, the site language first.
 
 If anything fails (no network, a hash mismatch, a missing pack, or no budget left), that request falls back to English. The pack is retried later, so localization never breaks a request.
 
@@ -24,7 +24,7 @@ Site components (Astro) and host code import catalogs from this package directly
 
 | Namespace | Used by | Format |
 |---|---|---|
-| `core` | Eventual admin and editor | English text → translation (`textTranslator`) |
+| `core` | Eventual RSVP – Core admin and editor | English text → translation (`textTranslator`) |
 | `tickets` | Tickets admin and emails | dotted key → ICU message |
 | `tickets-form` | `TicketCheckout`, `TicketOrder`, `TicketCheckin` | dotted key → message with plain `{name}` placeholders |
 | `attendance` | Attendance admin and emails | dotted key → ICU message |
