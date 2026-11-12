@@ -72,6 +72,7 @@
   "admin.fieldReplyTo": "Svar på e-mails går til (valgfrit)",
   "admin.fieldReminders": "Send en påmindelse så mange timer før arrangementet (0 = ingen påmindelse)",
   "admin.fieldRetentionDays": "Slet navne, e-mails og svar så mange dage efter arrangementet (30–3650)",
+  "admin.fieldDefaultTimezone": "Tidszone for begivenheder uden deres egen, for eksempel Europe/Zurich (tom: UTC)",
   "admin.fieldLocale": "Sprog i e-mails, når formularen ikke angiver det",
   "admin.fieldTurnstileSiteKey": "Webstedsnøgle til Cloudflare Turnstile (valgfri; tom = slået fra)",
   "admin.fieldTurnstileSecret": "Hemmelig nøgle til Cloudflare Turnstile",

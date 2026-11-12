@@ -47,6 +47,7 @@
   "admin.fieldCheckoutReturnPath": "Ödeme dönüş sayfasının yolu (Stripe alıcıları buraya geri gönderir)",
   "admin.fieldOrderPagePath": "Sipariş sayfasının yolu (bilet e-postası buraya bağlantı verir: görüntüle, bileti göster, iptal et)",
   "admin.fieldRetentionDays": "Katılımcı verilerini etkinlikten sonra bu kadar gün sakla (30–3650)",
+  "admin.fieldDefaultTimezone": "Kendi saat dilimi olmayan etkinlikler için saat dilimi, örneğin Europe/Zurich (boş: UTC)",
   "admin.fieldAutoRefund": "Yer alamayan veya yanlış tutar ödeyen ödenmiş siparişleri otomatik olarak iade et",
   "admin.fieldTurnstileSiteKey": "Cloudflare Turnstile site anahtarı (isteğe bağlı; boş = kapalı)",
   "admin.fieldTurnstileSecretKey": "Cloudflare Turnstile gizli anahtarı",

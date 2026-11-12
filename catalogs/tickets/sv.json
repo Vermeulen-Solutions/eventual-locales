@@ -47,6 +47,7 @@
   "admin.fieldCheckoutReturnPath": "Sökväg till retursidan efter betalning (Stripe skickar köpare tillbaka hit)",
   "admin.fieldOrderPagePath": "Sökväg till beställningssidan (biljettmejlet länkar hit: visa, visa biljetten, avboka)",
   "admin.fieldRetentionDays": "Spara deltagaruppgifter så här många dagar efter evenemanget (30–3650)",
+  "admin.fieldDefaultTimezone": "Tidszon för evenemang som saknar egen, till exempel Europe/Zurich (tomt: UTC)",
   "admin.fieldAutoRefund": "Återbetala automatiskt betalda beställningar som inte fick platser eller betalade fel belopp",
   "admin.fieldTurnstileSiteKey": "Webbplatsnyckel för Cloudflare Turnstile (valfri; tom = av)",
   "admin.fieldTurnstileSecretKey": "Hemlig nyckel för Cloudflare Turnstile",

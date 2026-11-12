@@ -72,6 +72,7 @@
   "admin.fieldReplyTo": "Odpowiedzi na e-maile trafiają do (opcjonalnie)",
   "admin.fieldReminders": "Wyślij przypomnienie tyle godzin przed wydarzeniem (0 = bez przypomnienia)",
   "admin.fieldRetentionDays": "Usuń imiona, e-maile i odpowiedzi tyle dni po wydarzeniu (30–3650)",
+  "admin.fieldDefaultTimezone": "Strefa czasowa dla wydarzeń bez własnej strefy, na przykład Europe/Zurich (puste: UTC)",
   "admin.fieldLocale": "Język e-maili, gdy formularz go nie podaje",
   "admin.fieldTurnstileSiteKey": "Klucz witryny Cloudflare Turnstile (opcjonalny; puste = wyłączone)",
   "admin.fieldTurnstileSecret": "Tajny klucz Cloudflare Turnstile",

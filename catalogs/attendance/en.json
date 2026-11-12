@@ -72,6 +72,7 @@
   "admin.fieldReplyTo": "Replies to emails go to (optional)",
   "admin.fieldReminders": "Send a reminder this many hours before the event (0 = no reminder)",
   "admin.fieldRetentionDays": "Delete names, emails and answers this many days after the event (30–3650)",
+  "admin.fieldDefaultTimezone": "Time zone for events that don't have their own, for example Europe/Zurich (empty: UTC)",
   "admin.fieldLocale": "Language of emails when the form doesn't say",
   "admin.fieldTurnstileSiteKey": "Cloudflare Turnstile site key (optional; empty = off)",
   "admin.fieldTurnstileSecret": "Cloudflare Turnstile secret key",

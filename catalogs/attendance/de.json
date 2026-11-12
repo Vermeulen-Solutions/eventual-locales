@@ -72,6 +72,7 @@
   "admin.fieldReplyTo": "Antworten auf E-Mails gehen an (optional)",
   "admin.fieldReminders": "Erinnerung so viele Stunden vor der Veranstaltung senden (0 = keine Erinnerung)",
   "admin.fieldRetentionDays": "Namen, E-Mails und Antworten so viele Tage nach der Veranstaltung löschen (30–3650)",
+  "admin.fieldDefaultTimezone": "Zeitzone für Veranstaltungen ohne eigene Zeitzone, zum Beispiel Europe/Zurich (leer: UTC)",
   "admin.fieldLocale": "Sprache der E-Mails, wenn das Formular keine angibt",
   "admin.fieldTurnstileSiteKey": "Cloudflare-Turnstile-Websiteschlüssel (optional; leer = aus)",
   "admin.fieldTurnstileSecret": "Geheimer Cloudflare-Turnstile-Schlüssel",

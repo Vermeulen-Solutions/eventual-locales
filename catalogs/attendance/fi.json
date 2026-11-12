@@ -72,6 +72,7 @@
   "admin.fieldReplyTo": "Vastaukset sähköposteihin menevät osoitteeseen (valinnainen)",
   "admin.fieldReminders": "Lähetä muistutus näin monta tuntia ennen tapahtumaa (0 = ei muistutusta)",
   "admin.fieldRetentionDays": "Poista nimet, sähköpostit ja vastaukset näin monta päivää tapahtuman jälkeen (30–3650)",
+  "admin.fieldDefaultTimezone": "Aikavyöhyke tapahtumille, joilla ei ole omaa, esimerkiksi Europe/Zurich (tyhjä: UTC)",
   "admin.fieldLocale": "Sähköpostien kieli, kun lomake ei kerro sitä",
   "admin.fieldTurnstileSiteKey": "Cloudflare Turnstilen sivustoavain (valinnainen; tyhjä = pois)",
   "admin.fieldTurnstileSecret": "Cloudflare Turnstilen salainen avain",

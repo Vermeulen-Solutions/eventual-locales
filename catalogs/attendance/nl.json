@@ -72,6 +72,7 @@
   "admin.fieldReplyTo": "Antwoorden op e-mails gaan naar (optioneel)",
   "admin.fieldReminders": "Zoveel uur voor het evenement een herinnering sturen (0 = geen herinnering)",
   "admin.fieldRetentionDays": "Namen, e-mails en antwoorden zoveel dagen na het evenement verwijderen (30–3650)",
+  "admin.fieldDefaultTimezone": "Tijdzone voor evenementen zonder eigen tijdzone, bijvoorbeeld Europe/Zurich (leeg: UTC)",
   "admin.fieldLocale": "Taal van de e-mails als het formulier die niet aangeeft",
   "admin.fieldTurnstileSiteKey": "Sitesleutel van Cloudflare Turnstile (optioneel; leeg = uit)",
   "admin.fieldTurnstileSecret": "Geheime sleutel van Cloudflare Turnstile",

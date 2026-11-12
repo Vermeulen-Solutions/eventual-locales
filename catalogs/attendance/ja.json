@@ -72,6 +72,7 @@
   "admin.fieldReplyTo": "メールへの返信先(任意)",
   "admin.fieldReminders": "イベントの何時間前にリマインダーを送るか(0 = 送らない)",
   "admin.fieldRetentionDays": "イベント終了後、名前・メール・回答を削除するまでの日数 (30〜3650)",
+  "admin.fieldDefaultTimezone": "独自のタイムゾーンがないイベントのタイムゾーン（例：Europe/Zurich、空欄：UTC）",
   "admin.fieldLocale": "フォームで指定がない場合のメールの言語",
   "admin.fieldTurnstileSiteKey": "Cloudflare Turnstile のサイトキー(任意。空欄で無効)",
   "admin.fieldTurnstileSecret": "Cloudflare Turnstile のシークレットキー",

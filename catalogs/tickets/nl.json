@@ -47,6 +47,7 @@
   "admin.fieldCheckoutReturnPath": "Pad van de terugkeerpagina na de checkout (Stripe stuurt kopers hierheen terug)",
   "admin.fieldOrderPagePath": "Pad van de bestelpagina (de ticketmail linkt hierheen: bekijken, ticket tonen, annuleren)",
   "admin.fieldRetentionDays": "Gegevens van deelnemers zoveel dagen na het evenement bewaren (30–3650)",
+  "admin.fieldDefaultTimezone": "Tijdzone voor evenementen zonder eigen tijdzone, bijvoorbeeld Europe/Zurich (leeg: UTC)",
   "admin.fieldAutoRefund": "Betaalde bestellingen zonder plaatsen of met een verkeerd bedrag automatisch terugbetalen",
   "admin.fieldTurnstileSiteKey": "Sitesleutel van Cloudflare Turnstile (optioneel; leeg = uit)",
   "admin.fieldTurnstileSecretKey": "Geheime sleutel van Cloudflare Turnstile",

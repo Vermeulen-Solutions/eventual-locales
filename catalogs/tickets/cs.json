@@ -47,6 +47,7 @@
   "admin.fieldCheckoutReturnPath": "Cesta k návratové stránce po platbě (Stripe sem kupující vrací)",
   "admin.fieldOrderPagePath": "Cesta ke stránce objednávky (e-mail se vstupenkou sem odkazuje: zobrazit, ukázat vstupenku, zrušit)",
   "admin.fieldRetentionDays": "Uchovávat údaje účastníků tolik dní po akci (30–3650)",
+  "admin.fieldDefaultTimezone": "Časové pásmo pro akce bez vlastního časového pásma, například Europe/Zurich (prázdné: UTC)",
   "admin.fieldAutoRefund": "Automaticky vracet peníze za zaplacené objednávky, které nedostaly místa nebo zaplatily špatnou částku",
   "admin.fieldTurnstileSiteKey": "Klíč webu Cloudflare Turnstile (volitelné; prázdné = vypnuto)",
   "admin.fieldTurnstileSecretKey": "Tajný klíč Cloudflare Turnstile",

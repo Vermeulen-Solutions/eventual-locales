@@ -72,6 +72,7 @@
   "admin.fieldReplyTo": "이메일 회신 주소(선택 사항)",
   "admin.fieldReminders": "이벤트 몇 시간 전에 알림 보내기(0 = 보내지 않음)",
   "admin.fieldRetentionDays": "이벤트 후 이름, 이메일, 답변을 삭제할 일수(30–3650)",
+  "admin.fieldDefaultTimezone": "자체 시간대가 없는 이벤트의 시간대(예: Europe/Zurich, 비워 두면 UTC)",
   "admin.fieldLocale": "양식에 언어가 없을 때 이메일 언어",
   "admin.fieldTurnstileSiteKey": "Cloudflare Turnstile 사이트 키(선택 사항, 비워 두면 꺼짐)",
   "admin.fieldTurnstileSecret": "Cloudflare Turnstile 비밀 키",

@@ -72,6 +72,7 @@
   "admin.fieldReplyTo": "E-posta yanıtlarının gideceği adres (isteğe bağlı)",
   "admin.fieldReminders": "Etkinlikten bu kadar saat önce hatırlatma gönder (0 = hatırlatma yok)",
   "admin.fieldRetentionDays": "Adları, e-postaları ve yanıtları etkinlikten bu kadar gün sonra sil (30–3650)",
+  "admin.fieldDefaultTimezone": "Kendi saat dilimi olmayan etkinlikler için saat dilimi, örneğin Europe/Zurich (boş: UTC)",
   "admin.fieldLocale": "Form belirtmediğinde e-postaların dili",
   "admin.fieldTurnstileSiteKey": "Cloudflare Turnstile site anahtarı (isteğe bağlı; boş = kapalı)",
   "admin.fieldTurnstileSecret": "Cloudflare Turnstile gizli anahtarı",

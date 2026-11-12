@@ -72,6 +72,7 @@
   "admin.fieldReplyTo": "邮件回复发送至(可选)",
   "admin.fieldReminders": "在活动开始前多少小时发送提醒(0 = 不提醒)",
   "admin.fieldRetentionDays": "活动结束后多少天删除姓名、邮件和回答 (30–3650)",
+  "admin.fieldDefaultTimezone": "没有自身时区的活动所用的时区，例如 Europe/Zurich（留空：UTC）",
   "admin.fieldLocale": "表单未指定时邮件使用的语言",
   "admin.fieldTurnstileSiteKey": "Cloudflare Turnstile 站点密钥(可选;留空 = 关闭)",
   "admin.fieldTurnstileSecret": "Cloudflare Turnstile 密钥",

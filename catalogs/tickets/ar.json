@@ -47,6 +47,7 @@
   "admin.fieldCheckoutReturnPath": "مسار صفحة العودة من الدفع (يعيد Stripe المشترين إليها)",
   "admin.fieldOrderPagePath": "مسار صفحة الطلب (يرتبط بها بريد التذكرة: عرض التذكرة وإظهارها وإلغاؤها)",
   "admin.fieldRetentionDays": "احتفظ ببيانات الحضور لهذا العدد من الأيام بعد الفعالية (30–3650)",
+  "admin.fieldDefaultTimezone": "المنطقة الزمنية للفعاليات التي ليست لها منطقة خاصة بها، مثل Europe/Zurich (فارغ: UTC)",
   "admin.fieldAutoRefund": "ردّ المبلغ تلقائيًا للطلبات المدفوعة التي لا تتوفر لها مقاعد أو دُفع فيها مبلغ خاطئ",
   "admin.fieldTurnstileSiteKey": "مفتاح الموقع في Cloudflare Turnstile (اختياري؛ فارغ = معطّل)",
   "admin.fieldTurnstileSecretKey": "المفتاح السري لـ Cloudflare Turnstile",

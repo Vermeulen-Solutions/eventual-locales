@@ -72,6 +72,7 @@
   "admin.fieldReplyTo": "تُرسل الردود على الرسائل إلى (اختياري)",
   "admin.fieldReminders": "أرسل تذكيرًا قبل الفعالية بهذا العدد من الساعات (0 = بلا تذكير)",
   "admin.fieldRetentionDays": "احذف الأسماء والبريد والإجابات بعد الفعالية بهذا العدد من الأيام (30–3650)",
+  "admin.fieldDefaultTimezone": "المنطقة الزمنية للفعاليات التي ليست لها منطقة خاصة بها، مثل Europe/Zurich (فارغ: UTC)",
   "admin.fieldLocale": "لغة الرسائل عندما لا يحددها النموذج",
   "admin.fieldTurnstileSiteKey": "مفتاح الموقع في Cloudflare Turnstile (اختياري؛ فارغ = معطّل)",
   "admin.fieldTurnstileSecret": "المفتاح السري لـ Cloudflare Turnstile",

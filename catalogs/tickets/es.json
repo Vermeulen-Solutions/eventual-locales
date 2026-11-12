@@ -47,6 +47,7 @@
   "admin.fieldCheckoutReturnPath": "Ruta de la página de vuelta tras el pago (Stripe devuelve aquí a los compradores)",
   "admin.fieldOrderPagePath": "Ruta de la página del pedido (el correo de la entrada enlaza aquí: ver, mostrar la entrada, cancelar)",
   "admin.fieldRetentionDays": "Conservar los datos de los asistentes durante estos días después del evento (30–3650)",
+  "admin.fieldDefaultTimezone": "Zona horaria para los eventos que no tienen una propia, por ejemplo Europe/Zurich (vacío: UTC)",
   "admin.fieldAutoRefund": "Reembolsar automáticamente los pedidos pagados que no obtuvieron plazas o pagaron un importe incorrecto",
   "admin.fieldTurnstileSiteKey": "Clave de sitio de Cloudflare Turnstile (opcional; vacía = desactivado)",
   "admin.fieldTurnstileSecretKey": "Clave secreta de Cloudflare Turnstile",

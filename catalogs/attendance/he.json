@@ -72,6 +72,7 @@
   "admin.fieldReplyTo": "תשובות לאימיילים נשלחות אל (אופציונלי)",
   "admin.fieldReminders": "שליחת תזכורת מספר שעות זה לפני האירוע (0 = ללא תזכורת)",
   "admin.fieldRetentionDays": "מחיקת שמות, אימיילים ותשובות מספר ימים זה אחרי האירוע (30–3650)",
+  "admin.fieldDefaultTimezone": "אזור זמן לאירועים שאין להם אזור זמן משלהם, למשל Europe/Zurich (ריק: UTC)",
   "admin.fieldLocale": "שפת האימיילים כשהטופס לא מציין",
   "admin.fieldTurnstileSiteKey": "מפתח אתר של Cloudflare Turnstile (אופציונלי; ריק = כבוי)",
   "admin.fieldTurnstileSecret": "מפתח סודי של Cloudflare Turnstile",

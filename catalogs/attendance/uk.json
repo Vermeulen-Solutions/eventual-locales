@@ -72,6 +72,7 @@
   "admin.fieldReplyTo": "Відповіді на листи надходять на (необов'язково)",
   "admin.fieldReminders": "Надсилати нагадування за стільки годин до події (0 = без нагадування)",
   "admin.fieldRetentionDays": "Видаляти імена, email і відповіді через стільки днів після події (30–3650)",
+  "admin.fieldDefaultTimezone": "Часовий пояс для подій без власного, наприклад Europe/Zurich (порожньо: UTC)",
   "admin.fieldLocale": "Мова листів, якщо форма її не вказує",
   "admin.fieldTurnstileSiteKey": "Ключ сайту Cloudflare Turnstile (необов'язково; порожньо = вимкнено)",
   "admin.fieldTurnstileSecret": "Секретний ключ Cloudflare Turnstile",

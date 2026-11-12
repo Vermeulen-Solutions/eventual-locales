@@ -47,6 +47,7 @@
   "admin.fieldCheckoutReturnPath": "נתיב דף החזרה מהתשלום (Stripe מחזיר את הקונים לכאן)",
   "admin.fieldOrderPagePath": "נתיב דף ההזמנה (אימייל הכרטיס מקשר לכאן: צפייה, הצגת הכרטיס, ביטול)",
   "admin.fieldRetentionDays": "שמירת נתוני המשתתפים מספר ימים זה אחרי האירוע (30–3650)",
+  "admin.fieldDefaultTimezone": "אזור זמן לאירועים שאין להם אזור זמן משלהם, למשל Europe/Zurich (ריק: UTC)",
   "admin.fieldAutoRefund": "החזר אוטומטי להזמנות ששולמו בלי מקום פנוי או בסכום שגוי",
   "admin.fieldTurnstileSiteKey": "מפתח אתר של Cloudflare Turnstile (אופציונלי; ריק = כבוי)",
   "admin.fieldTurnstileSecretKey": "מפתח סודי של Cloudflare Turnstile",

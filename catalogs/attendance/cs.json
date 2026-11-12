@@ -72,6 +72,7 @@
   "admin.fieldReplyTo": "Odpovědi na e-maily jdou na (volitelné)",
   "admin.fieldReminders": "Poslat připomínku tolik hodin před akcí (0 = bez připomínky)",
   "admin.fieldRetentionDays": "Smazat jména, e-maily a odpovědi tolik dní po akci (30–3650)",
+  "admin.fieldDefaultTimezone": "Časové pásmo pro akce bez vlastního časového pásma, například Europe/Zurich (prázdné: UTC)",
   "admin.fieldLocale": "Jazyk e-mailů, když ho formulář neuvádí",
   "admin.fieldTurnstileSiteKey": "Klíč webu Cloudflare Turnstile (volitelné; prázdné = vypnuto)",
   "admin.fieldTurnstileSecret": "Tajný klíč Cloudflare Turnstile",

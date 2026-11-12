@@ -47,6 +47,7 @@
   "admin.fieldCheckoutReturnPath": "Chemin du retour de paiement Stripe",
   "admin.fieldOrderPagePath": "Chemin de la page de commande",
   "admin.fieldRetentionDays": "Conserver les données des acheteurs ce nombre de jours après l’événement (30–3650)",
+  "admin.fieldDefaultTimezone": "Fuseau horaire des événements qui n’en ont pas, par exemple Europe/Zurich (vide : UTC)",
   "admin.fieldAutoRefund": "Rembourser automatiquement les commandes payées restées sans place ou payées avec un mauvais montant",
   "admin.fieldTurnstileSiteKey": "Clé de site Cloudflare Turnstile (facultatif ; vide = désactivé)",
   "admin.fieldTurnstileSecretKey": "Clé secrète Cloudflare Turnstile",

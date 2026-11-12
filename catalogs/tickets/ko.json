@@ -47,6 +47,7 @@
   "admin.fieldCheckoutReturnPath": "결제 후 돌아오는 페이지 경로(Stripe가 구매자를 이곳으로 돌려보냅니다)",
   "admin.fieldOrderPagePath": "주문 페이지 경로(티켓 이메일의 링크: 보기, 티켓 표시, 취소)",
   "admin.fieldRetentionDays": "이벤트 후 참석자 데이터를 보관할 일수(30–3650)",
+  "admin.fieldDefaultTimezone": "자체 시간대가 없는 이벤트의 시간대(예: Europe/Zurich, 비워 두면 UTC)",
   "admin.fieldAutoRefund": "좌석을 받지 못했거나 잘못된 금액을 결제한 주문을 자동으로 환불",
   "admin.fieldTurnstileSiteKey": "Cloudflare Turnstile 사이트 키(선택 사항, 비워 두면 꺼짐)",
   "admin.fieldTurnstileSecretKey": "Cloudflare Turnstile 비밀 키",

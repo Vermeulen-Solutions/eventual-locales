@@ -72,6 +72,7 @@
   "admin.fieldReplyTo": "Svar på mejl går till (valfritt)",
   "admin.fieldReminders": "Skicka en påminnelse så här många timmar före evenemanget (0 = ingen påminnelse)",
   "admin.fieldRetentionDays": "Radera namn, e-post och svar så här många dagar efter evenemanget (30–3650)",
+  "admin.fieldDefaultTimezone": "Tidszon för evenemang som saknar egen, till exempel Europe/Zurich (tomt: UTC)",
   "admin.fieldLocale": "Språk i mejl när formuläret inte anger något",
   "admin.fieldTurnstileSiteKey": "Webbplatsnyckel för Cloudflare Turnstile (valfri; tom = av)",
   "admin.fieldTurnstileSecret": "Hemlig nyckel för Cloudflare Turnstile",

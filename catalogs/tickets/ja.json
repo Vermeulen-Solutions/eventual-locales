@@ -47,6 +47,7 @@
   "admin.fieldCheckoutReturnPath": "決済後の戻りページのパス(Stripe が購入者をここに戻します)",
   "admin.fieldOrderPagePath": "注文ページのパス(チケットのメールからリンクされます: 表示、チケットの提示、キャンセル)",
   "admin.fieldRetentionDays": "イベント終了後に参加者データを保持する日数 (30〜3650)",
+  "admin.fieldDefaultTimezone": "独自のタイムゾーンがないイベントのタイムゾーン（例：Europe/Zurich、空欄：UTC）",
   "admin.fieldAutoRefund": "席を確保できなかった、または金額が違っていた支払い済みの注文を自動で返金する",
   "admin.fieldTurnstileSiteKey": "Cloudflare Turnstile のサイトキー(任意。空欄で無効)",
   "admin.fieldTurnstileSecretKey": "Cloudflare Turnstile のシークレットキー",

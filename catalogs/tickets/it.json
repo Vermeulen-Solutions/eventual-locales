@@ -47,6 +47,7 @@
   "admin.fieldCheckoutReturnPath": "Percorso della pagina di ritorno dopo il pagamento (Stripe rimanda qui gli acquirenti)",
   "admin.fieldOrderPagePath": "Percorso della pagina dell’ordine (l’email del biglietto rimanda qui: vedere, mostrare il biglietto, annullare)",
   "admin.fieldRetentionDays": "Conserva i dati dei partecipanti per questi giorni dopo l’evento (30–3650)",
+  "admin.fieldDefaultTimezone": "Fuso orario per gli eventi che non ne hanno uno proprio, ad esempio Europe/Zurich (vuoto: UTC)",
   "admin.fieldAutoRefund": "Rimborsa automaticamente gli ordini pagati che non hanno ottenuto posti o hanno pagato l’importo sbagliato",
   "admin.fieldTurnstileSiteKey": "Chiave del sito di Cloudflare Turnstile (facoltativa; vuota = disattivato)",
   "admin.fieldTurnstileSecretKey": "Chiave segreta di Cloudflare Turnstile",

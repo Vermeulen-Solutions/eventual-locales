@@ -47,6 +47,7 @@
   "admin.fieldCheckoutReturnPath": "Sti til retursiden efter betaling (Stripe sender købere tilbage hertil)",
   "admin.fieldOrderPagePath": "Sti til ordresiden (billetmailen linker hertil: vis, vis billetten, annuller)",
   "admin.fieldRetentionDays": "Gem deltagerdata så mange dage efter arrangementet (30–3650)",
+  "admin.fieldDefaultTimezone": "Tidszone for begivenheder uden deres egen, for eksempel Europe/Zurich (tom: UTC)",
   "admin.fieldAutoRefund": "Refundér automatisk betalte ordrer, der ikke fik pladser eller betalte et forkert beløb",
   "admin.fieldTurnstileSiteKey": "Webstedsnøgle til Cloudflare Turnstile (valgfri; tom = slået fra)",
   "admin.fieldTurnstileSecretKey": "Hemmelig nøgle til Cloudflare Turnstile",

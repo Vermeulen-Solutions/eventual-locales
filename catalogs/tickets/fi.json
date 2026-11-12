@@ -47,6 +47,7 @@
   "admin.fieldCheckoutReturnPath": "Maksun paluusivun polku (Stripe ohjaa ostajat takaisin tänne)",
   "admin.fieldOrderPagePath": "Tilaussivun polku (lippusähköposti linkittää tänne: katso, näytä lippu, peru)",
   "admin.fieldRetentionDays": "Säilytä osallistujatiedot näin monta päivää tapahtuman jälkeen (30–3650)",
+  "admin.fieldDefaultTimezone": "Aikavyöhyke tapahtumille, joilla ei ole omaa, esimerkiksi Europe/Zurich (tyhjä: UTC)",
   "admin.fieldAutoRefund": "Palauta automaattisesti rahat maksetuista tilauksista, jotka eivät saaneet paikkoja tai maksoivat väärän summan",
   "admin.fieldTurnstileSiteKey": "Cloudflare Turnstilen sivustoavain (valinnainen; tyhjä = pois)",
   "admin.fieldTurnstileSecretKey": "Cloudflare Turnstilen salainen avain",

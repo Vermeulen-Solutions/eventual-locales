@@ -47,6 +47,7 @@
   "admin.fieldCheckoutReturnPath": "付款返回页面路径(Stripe 会将购票者送回此处)",
   "admin.fieldOrderPagePath": "订单页面路径(购票邮件链接到此处:查看、出示门票、取消)",
   "admin.fieldRetentionDays": "活动结束后保留参与者数据的天数 (30–3650)",
+  "admin.fieldDefaultTimezone": "没有自身时区的活动所用的时区，例如 Europe/Zurich（留空：UTC）",
   "admin.fieldAutoRefund": "自动退款:已付款但未获得座位或付款金额不符的订单",
   "admin.fieldTurnstileSiteKey": "Cloudflare Turnstile 站点密钥(可选;留空 = 关闭)",
   "admin.fieldTurnstileSecretKey": "Cloudflare Turnstile 密钥",

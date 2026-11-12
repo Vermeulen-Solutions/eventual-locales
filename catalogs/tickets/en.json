@@ -47,6 +47,7 @@
   "admin.fieldCheckoutReturnPath": "Checkout return page path (Stripe sends buyers back here)",
   "admin.fieldOrderPagePath": "Order page path (the ticket email links here: view, show the ticket, cancel)",
   "admin.fieldRetentionDays": "Keep attendee data for this many days after the event (30–3650)",
+  "admin.fieldDefaultTimezone": "Time zone for events that don't have their own, for example Europe/Zurich (empty: UTC)",
   "admin.fieldAutoRefund": "Refund paid orders that got no seats, or paid the wrong amount, automatically",
   "admin.fieldTurnstileSiteKey": "Cloudflare Turnstile site key (optional; empty = off)",
   "admin.fieldTurnstileSecretKey": "Cloudflare Turnstile secret key",
