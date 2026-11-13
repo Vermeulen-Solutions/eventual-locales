@@ -230,6 +230,8 @@
   "admin.doorEmpty": "受付する人はまだいません",
   "admin.doorNext": "さらに表示",
   "admin.doorPrintIntro": "紙や表計算ソフトのほうがよいですか?このリストのファイルを作成できます。",
+  "admin.doorNextEvent": "次のイベントを表示しています：{event}。別のイベントの受付をするには、上で選んでください。",
+  "admin.listFilesIntro": "リストを印刷するか表計算ソフトで開けます。上で選んだイベント(選んでいなければすべてのイベント)のファイルを、キャンセル済みを含む全員のステータス付きで作成します。",
   "admin.allEventsTitle": "すべてのイベント",
   "admin.allDatesTitle": "すべての日程",
   "admin.eventLabel": "イベント {id}",

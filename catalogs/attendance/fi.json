@@ -230,6 +230,8 @@
   "admin.doorEmpty": "Ei vielä ketään kirjattavaksi",
   "admin.doorNext": "Näytä lisää ihmisiä",
   "admin.doorPrintIntro": "Mieluummin paperi tai taulukko? Tee luettelosta tiedosto.",
+  "admin.doorNextEvent": "Näytetään seuraava tapahtuma: {event}. Jos haluat kirjata saapujia toiseen tapahtumaan, valitse se yltä.",
+  "admin.listFilesIntro": "Tulosta luettelo tai avaa se taulukkolaskentaan: tee tiedosto yllä valitusta tapahtumasta (kaikista tapahtumista, jos mitään ei ole valittu), jokaisen tilan kanssa, myös perutut.",
   "admin.allEventsTitle": "Kaikki tapahtumat",
   "admin.allDatesTitle": "Kaikki päivämäärät",
   "admin.eventLabel": "Tapahtuma {id}",

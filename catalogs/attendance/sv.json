@@ -230,6 +230,8 @@
   "admin.doorEmpty": "Ingen att checka in än",
   "admin.doorNext": "Visa fler personer",
   "admin.doorPrintIntro": "Hellre papper eller kalkylark? Gör en fil av listan.",
+  "admin.doorNextEvent": "Visar nästa evenemang: {event}. Välj ett annat ovan för att checka in personer till det.",
+  "admin.listFilesIntro": "Skriv ut listan eller öppna den i ett kalkylark: gör en fil av evenemanget som valts ovan (alla evenemang om inget är valt), med allas status, även avbokade.",
   "admin.allEventsTitle": "Alla evenemang",
   "admin.allDatesTitle": "Alla datum",
   "admin.eventLabel": "Evenemang {id}",

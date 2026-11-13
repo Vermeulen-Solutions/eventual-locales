@@ -230,6 +230,8 @@
   "admin.doorEmpty": "Nog niemand om in te checken",
   "admin.doorNext": "Meer mensen tonen",
   "admin.doorPrintIntro": "Liever papier of een spreadsheet? Maak een bestand van deze lijst.",
+  "admin.doorNextEvent": "Het volgende evenement wordt getoond: {event}. Wilt u mensen voor een ander evenement binnenlaten, kies het dan hierboven.",
+  "admin.listFilesIntro": "Druk de lijst af of open hem in een spreadsheet: maak een bestand van het hierboven gekozen evenement (alle evenementen als er geen gekozen is), met ieders status, geannuleerde inbegrepen.",
   "admin.allEventsTitle": "Alle evenementen",
   "admin.allDatesTitle": "Alle datums",
   "admin.eventLabel": "Evenement {id}",

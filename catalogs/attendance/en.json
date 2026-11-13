@@ -230,6 +230,8 @@
   "admin.doorEmpty": "Nobody to check in yet",
   "admin.doorNext": "Show more people",
   "admin.doorPrintIntro": "Prefer paper or a spreadsheet? Make a file of this list.",
+  "admin.doorNextEvent": "Showing the next event: {event}. To check people in for another one, choose it above.",
+  "admin.listFilesIntro": "Print the list or open it in a spreadsheet: make a file of the event chosen above (all events when none is chosen), with everyone's status, cancelled ones included.",
   "admin.allEventsTitle": "All Events",
   "admin.allDatesTitle": "All Dates",
   "admin.eventLabel": "Event {id}",

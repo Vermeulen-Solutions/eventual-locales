@@ -230,6 +230,8 @@
   "admin.doorEmpty": "Ingen at tjekke ind endnu",
   "admin.doorNext": "Vis flere personer",
   "admin.doorPrintIntro": "Hellere papir eller et regneark? Lav en fil af listen.",
+  "admin.doorNextEvent": "Viser det næste arrangement: {event}. Vælg et andet ovenfor for at tjekke folk ind til det.",
+  "admin.listFilesIntro": "Udskriv listen eller åbn den i et regneark: lav en fil af arrangementet valgt ovenfor (alle arrangementer, hvis intet er valgt), med alles status, også annullerede.",
   "admin.allEventsTitle": "Alle arrangementer",
   "admin.allDatesTitle": "Alle datoer",
   "admin.eventLabel": "Arrangement {id}",

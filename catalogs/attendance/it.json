@@ -230,6 +230,8 @@
   "admin.doorEmpty": "Ancora nessuno da registrare",
   "admin.doorNext": "Mostra altre persone",
   "admin.doorPrintIntro": "Preferisci la carta o un foglio di calcolo? Crea un file di questo elenco.",
+  "admin.doorNextEvent": "È mostrato il prossimo evento: {event}. Per registrare gli ingressi di un altro, sceglilo qui sopra.",
+  "admin.listFilesIntro": "Stampa l’elenco o aprilo in un foglio di calcolo: crea un file dell’evento scelto qui sopra (tutti gli eventi se non ne è scelto nessuno), con lo stato di ciascuno, annullate comprese.",
   "admin.allEventsTitle": "Tutti gli eventi",
   "admin.allDatesTitle": "Tutte le date",
   "admin.eventLabel": "Evento {id}",

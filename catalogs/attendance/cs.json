@@ -230,6 +230,8 @@
   "admin.doorEmpty": "Zatím nikdo k odbavení",
   "admin.doorNext": "Zobrazit další lidi",
   "admin.doorPrintIntro": "Dáváte přednost papíru nebo tabulce? Vytvořte z tohoto seznamu soubor.",
+  "admin.doorNextEvent": "Zobrazuje se nejbližší akce: {event}. Chcete-li odbavovat lidi na jinou, vyberte ji výše.",
+  "admin.listFilesIntro": "Vytiskněte seznam nebo ho otevřete v tabulce: vytvořte soubor akce vybrané výše (všech akcí, když není žádná vybrána) se stavem každého, včetně zrušených.",
   "admin.allEventsTitle": "Všechny akce",
   "admin.allDatesTitle": "Všechny termíny",
   "admin.eventLabel": "Akce {id}",

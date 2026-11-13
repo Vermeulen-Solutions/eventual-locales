@@ -230,6 +230,8 @@
   "admin.doorEmpty": "Henüz giriş yapacak kimse yok",
   "admin.doorNext": "Daha fazla kişi göster",
   "admin.doorPrintIntro": "Kâğıt veya tablo mu tercih edersiniz? Bu listeden bir dosya oluşturun.",
+  "admin.doorNextEvent": "Sıradaki etkinlik gösteriliyor: {event}. Başka bir etkinliğe giriş yapmak için yukarıdan onu seçin.",
+  "admin.listFilesIntro": "Listeyi yazdırın veya bir tabloda açın: yukarıda seçilen etkinliğin dosyasını oluşturun (hiçbiri seçilmediyse tüm etkinliklerin), herkesin durumuyla, iptal edilenler dahil.",
   "admin.allEventsTitle": "Tüm etkinlikler",
   "admin.allDatesTitle": "Tüm tarihler",
   "admin.eventLabel": "Etkinlik {id}",

@@ -230,6 +230,8 @@
   "admin.doorEmpty": "Nikogo do zameldowania",
   "admin.doorNext": "Pokaż więcej osób",
   "admin.doorPrintIntro": "Wolisz papier lub arkusz kalkulacyjny? Utwórz plik z tej listy.",
+  "admin.doorNextEvent": "Wyświetlane jest najbliższe wydarzenie: {event}. Aby wpuszczać osoby na inne, wybierz je powyżej.",
+  "admin.listFilesIntro": "Wydrukuj listę lub otwórz ją w arkuszu kalkulacyjnym: utwórz plik wydarzenia wybranego powyżej (wszystkich wydarzeń, gdy żadne nie jest wybrane), ze statusem każdej osoby, łącznie z anulowanymi.",
   "admin.allEventsTitle": "Wszystkie wydarzenia",
   "admin.allDatesTitle": "Wszystkie terminy",
   "admin.eventLabel": "Wydarzenie {id}",

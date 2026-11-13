@@ -230,6 +230,8 @@
   "admin.doorEmpty": "Noch niemand zum Einchecken",
   "admin.doorNext": "Mehr Personen anzeigen",
   "admin.doorPrintIntro": "Lieber Papier oder eine Tabelle? Erstellen Sie eine Datei dieser Liste.",
+  "admin.doorNextEvent": "Angezeigt wird die nächste Veranstaltung: {event}. Um Personen für eine andere einzulassen, wählen Sie sie oben aus.",
+  "admin.listFilesIntro": "Drucken Sie die Liste oder öffnen Sie sie in einer Tabelle: Erstellen Sie eine Datei der oben gewählten Veranstaltung (aller Veranstaltungen, wenn keine gewählt ist), mit dem Status aller Personen, Stornierungen eingeschlossen.",
   "admin.allEventsTitle": "Alle Veranstaltungen",
   "admin.allDatesTitle": "Alle Termine",
   "admin.eventLabel": "Veranstaltung {id}",

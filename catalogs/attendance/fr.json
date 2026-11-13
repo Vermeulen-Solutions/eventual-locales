@@ -230,6 +230,8 @@
   "admin.doorEmpty": "Personne à accueillir pour l’instant",
   "admin.doorNext": "Afficher la suite",
   "admin.doorPrintIntro": "Vous préférez le papier ou un tableur ? Créez un fichier de cette liste.",
+  "admin.doorNextEvent": "Affichage du prochain événement : {event}. Pour accueillir les participants d’un autre événement, choisissez-le ci-dessus.",
+  "admin.listFilesIntro": "Imprimez la liste ou ouvrez-la dans un tableur : créez un fichier de l’événement choisi ci-dessus (tous les événements si aucun n’est choisi), avec le statut de chacun, annulations comprises.",
   "admin.allEventsTitle": "Tous les événements",
   "admin.allDatesTitle": "Toutes les dates",
   "admin.eventLabel": "Événement {id}",

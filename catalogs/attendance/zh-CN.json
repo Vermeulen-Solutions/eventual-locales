@@ -230,6 +230,8 @@
   "admin.doorEmpty": "暂无需要签到的人",
   "admin.doorNext": "显示更多人员",
   "admin.doorPrintIntro": "更喜欢纸质或电子表格?可以将此名单生成文件。",
+  "admin.doorNextEvent": "正在显示下一场活动：{event}。如需为其他活动签到，请在上方选择。",
+  "admin.listFilesIntro": "打印名单或在电子表格中打开:为上方所选活动(未选择时为所有活动)生成文件，包含每个人的状态，已取消的也包括在内。",
   "admin.allEventsTitle": "所有活动",
   "admin.allDatesTitle": "所有日期",
   "admin.eventLabel": "活动 {id}",
