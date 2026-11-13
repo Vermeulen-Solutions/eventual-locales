@@ -1,6 +1,6 @@
 {
   "name": "@vermeulen.solutions/eventual-locales",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "Translations and the shared message runtime for the Eventual EmDash plugins.",
   "license": "MIT",
   "repository": {
