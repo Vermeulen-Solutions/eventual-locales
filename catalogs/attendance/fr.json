@@ -143,7 +143,7 @@
   "admin.panelNotSaved": "Rien n’a été enregistré : corrigez d’abord les questions.",
   "admin.questionsNeedFixing": "Les questions sont à corriger",
   "admin.ticketedTitle": "Cet événement vend des billets",
-  "admin.ticketedBody": "L’inscription gratuite est désactivée pour cet événement. Réglez-le dans le panneau Billets.",
+  "admin.ticketedBody": "L’inscription gratuite est désactivée pour cet événement : il se gère dans le panneau Tickets, et les achats figurent sous Tickets → Orders.",
   "admin.enable": "Inscriptions ouvertes",
   "admin.enableHelp": "Les visiteurs peuvent s’inscrire sur votre site. Désactivez pour arrêter les nouvelles inscriptions ; les inscriptions existantes restent.",
   "admin.capacityLimit": "Places disponibles (0 = sans limite)",
