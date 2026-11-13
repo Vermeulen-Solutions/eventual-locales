@@ -151,7 +151,7 @@
   "admin.allowWaitlist": "Liste d’attente quand c’est complet",
   "admin.allowWaitlistHelp": "Quand tout est pris, les visiteurs peuvent rejoindre une liste d’attente. Les places libérées sont proposées par ordre d’arrivée.",
   "admin.requireApproval": "Valider chaque inscription vous-même",
-  "admin.requireApprovalHelp": "Les inscriptions attendent, en gardant leurs places, que vous les acceptiez ou refusiez sur la page Inscriptions.",
+  "admin.requireApprovalHelp": "Les inscriptions attendent, en gardant leurs places, que vous les acceptiez ou refusiez sous Registrations.",
   "admin.approvalHours": "Délai pour décider, en heures (1–720)",
   "admin.eventReplyTo": "Les réponses aux e-mails de cet événement vont à (facultatif)",
   "admin.savePanel": "Enregistrer les réglages d’inscription",
