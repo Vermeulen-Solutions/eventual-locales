@@ -23,6 +23,8 @@
   "checkout.client.reference": "Riferimento dell’ordine: {id}",
   "checkout.client.viewTickets": "Vedi i tuoi biglietti",
   "checkout.client.viewInvoice": "Vedi o annulla il tuo ordine",
+  "checkout.client.submitInvoice": "Prenota i miei posti",
+  "checkout.client.noteInvoice": "I tuoi posti sono subito prenotati. Ricevi i dati per il pagamento via e-mail.",
   "checkout.client.generic": "Qualcosa è andato storto. Riprova.",
   "checkout.client.errors.MISSING_REQUIRED_FIELDS": "Inserisci nome e indirizzo email.",
   "checkout.client.errors.INVALID_EMAIL": "Inserisci un indirizzo email valido.",

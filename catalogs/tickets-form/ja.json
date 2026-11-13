@@ -23,6 +23,8 @@
   "checkout.client.reference": "注文番号: {id}",
   "checkout.client.viewTickets": "チケットを見る",
   "checkout.client.viewInvoice": "注文の確認・キャンセル",
+  "checkout.client.submitInvoice": "席を予約する",
+  "checkout.client.noteInvoice": "席はすぐに予約されます。支払い方法の詳細はメールでお届けします。",
   "checkout.client.generic": "問題が発生しました。もう一度お試しください。",
   "checkout.client.errors.MISSING_REQUIRED_FIELDS": "お名前とメールアドレスを入力してください。",
   "checkout.client.errors.INVALID_EMAIL": "有効なメールアドレスを入力してください。",

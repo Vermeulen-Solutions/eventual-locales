@@ -23,6 +23,8 @@
   "checkout.client.reference": "מספר הזמנה: {id}",
   "checkout.client.viewTickets": "הצגת הכרטיסים",
   "checkout.client.viewInvoice": "הצגה או ביטול של ההזמנה",
+  "checkout.client.submitInvoice": "שריון המקומות שלי",
+  "checkout.client.noteInvoice": "המקומות שלכם שמורים מיד. פרטי התשלום יישלחו אליכם בדוא״ל.",
   "checkout.client.generic": "משהו השתבש. נא לנסות שוב.",
   "checkout.client.errors.MISSING_REQUIRED_FIELDS": "נא להזין שם וכתובת אימייל.",
   "checkout.client.errors.INVALID_EMAIL": "נא להזין כתובת אימייל תקינה.",

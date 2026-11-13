@@ -23,6 +23,8 @@
   "checkout.client.reference": "Bestellreferenz: {id}",
   "checkout.client.viewTickets": "Ihre Tickets ansehen",
   "checkout.client.viewInvoice": "Bestellung ansehen oder stornieren",
+  "checkout.client.submitInvoice": "Plätze reservieren",
+  "checkout.client.noteInvoice": "Ihre Plätze sind sofort reserviert. Die Zahlungsangaben erhalten Sie per E-Mail.",
   "checkout.client.generic": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.",
   "checkout.client.errors.MISSING_REQUIRED_FIELDS": "Bitte geben Sie Ihren Namen und Ihre E-Mail-Adresse ein.",
   "checkout.client.errors.INVALID_EMAIL": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",

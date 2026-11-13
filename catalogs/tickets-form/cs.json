@@ -23,6 +23,8 @@
   "checkout.client.reference": "Číslo objednávky: {id}",
   "checkout.client.viewTickets": "Zobrazit vstupenky",
   "checkout.client.viewInvoice": "Zobrazit nebo zrušit objednávku",
+  "checkout.client.submitInvoice": "Rezervovat má místa",
+  "checkout.client.noteInvoice": "Vaše místa jsou hned rezervována. Platební údaje dostanete e-mailem.",
   "checkout.client.generic": "Něco se pokazilo. Zkuste to znovu.",
   "checkout.client.errors.MISSING_REQUIRED_FIELDS": "Vyplňte jméno a e-mailovou adresu.",
   "checkout.client.errors.INVALID_EMAIL": "Zadejte platnou e-mailovou adresu.",

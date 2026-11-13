@@ -23,6 +23,8 @@
   "checkout.client.reference": "Bestelreferentie: {id}",
   "checkout.client.viewTickets": "Uw tickets bekijken",
   "checkout.client.viewInvoice": "Uw bestelling bekijken of annuleren",
+  "checkout.client.submitInvoice": "Mijn plaatsen reserveren",
+  "checkout.client.noteInvoice": "Je plaatsen zijn meteen gereserveerd. De betaalgegevens krijg je per e-mail.",
   "checkout.client.generic": "Er ging iets mis. Probeer het opnieuw.",
   "checkout.client.errors.MISSING_REQUIRED_FIELDS": "Vul uw naam en e-mailadres in.",
   "checkout.client.errors.INVALID_EMAIL": "Voer een geldig e-mailadres in.",

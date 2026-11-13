@@ -23,6 +23,8 @@
   "checkout.client.reference": "Numer zamówienia: {id}",
   "checkout.client.viewTickets": "Zobacz swoje bilety",
   "checkout.client.viewInvoice": "Zobacz lub anuluj zamówienie",
+  "checkout.client.submitInvoice": "Zarezerwuj moje miejsca",
+  "checkout.client.noteInvoice": "Twoje miejsca są od razu zarezerwowane. Dane do płatności otrzymasz e-mailem.",
   "checkout.client.generic": "Coś poszło nie tak. Spróbuj ponownie.",
   "checkout.client.errors.MISSING_REQUIRED_FIELDS": "Podaj imię i nazwisko oraz adres e-mail.",
   "checkout.client.errors.INVALID_EMAIL": "Podaj prawidłowy adres e-mail.",

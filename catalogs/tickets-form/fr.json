@@ -23,6 +23,8 @@
   "checkout.client.reference": "Référence de commande : {id}",
   "checkout.client.viewTickets": "Voir vos billets",
   "checkout.client.viewInvoice": "Voir ou annuler votre commande",
+  "checkout.client.submitInvoice": "Réserver mes places",
+  "checkout.client.noteInvoice": "Vos places sont réservées tout de suite. Vous recevez les coordonnées de paiement par e-mail.",
   "checkout.client.generic": "Une erreur est survenue. Merci de réessayer.",
   "checkout.client.errors.MISSING_REQUIRED_FIELDS": "Merci d'indiquer votre nom et votre adresse e-mail.",
   "checkout.client.errors.INVALID_EMAIL": "Merci d'indiquer une adresse e-mail valide.",

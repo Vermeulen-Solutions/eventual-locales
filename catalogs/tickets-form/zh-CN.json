@@ -23,6 +23,8 @@
   "checkout.client.reference": "订单号:{id}",
   "checkout.client.viewTickets": "查看门票",
   "checkout.client.viewInvoice": "查看或取消订单",
+  "checkout.client.submitInvoice": "预订我的名额",
+  "checkout.client.noteInvoice": "您的名额已立即预留。付款信息将通过电子邮件发送给您。",
   "checkout.client.generic": "出了点问题。请重试。",
   "checkout.client.errors.MISSING_REQUIRED_FIELDS": "请填写您的姓名和电子邮件地址。",
   "checkout.client.errors.INVALID_EMAIL": "请输入有效的电子邮件地址。",

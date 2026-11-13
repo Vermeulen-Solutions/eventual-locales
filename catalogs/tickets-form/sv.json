@@ -23,6 +23,8 @@
   "checkout.client.reference": "Beställningsnummer: {id}",
   "checkout.client.viewTickets": "Visa dina biljetter",
   "checkout.client.viewInvoice": "Visa eller avboka din beställning",
+  "checkout.client.submitInvoice": "Reservera mina platser",
+  "checkout.client.noteInvoice": "Dina platser reserveras direkt. Betalningsuppgifterna får du via e-post.",
   "checkout.client.generic": "Något gick fel. Försök igen.",
   "checkout.client.errors.MISSING_REQUIRED_FIELDS": "Fyll i ditt namn och din e-postadress.",
   "checkout.client.errors.INVALID_EMAIL": "Ange en giltig e-postadress.",

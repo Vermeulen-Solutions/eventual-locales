@@ -23,6 +23,8 @@
   "checkout.client.reference": "Order reference: {id}",
   "checkout.client.viewTickets": "View your tickets",
   "checkout.client.viewInvoice": "View or cancel your order",
+  "checkout.client.submitInvoice": "Reserve my places",
+  "checkout.client.noteInvoice": "Your places are reserved at once. You receive the payment details by email.",
   "checkout.client.generic": "Something went wrong. Please try again.",
   "checkout.client.errors.MISSING_REQUIRED_FIELDS": "Please fill in your name and email address.",
   "checkout.client.errors.INVALID_EMAIL": "Please enter a valid email address.",

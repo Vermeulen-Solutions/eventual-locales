@@ -23,6 +23,8 @@
   "checkout.client.reference": "Sipariş numarası: {id}",
   "checkout.client.viewTickets": "Biletlerinizi görüntüleyin",
   "checkout.client.viewInvoice": "Siparişinizi görüntüleyin veya iptal edin",
+  "checkout.client.submitInvoice": "Yerlerimi ayır",
+  "checkout.client.noteInvoice": "Yerleriniz hemen ayrılır. Ödeme bilgileri e-postayla gelir.",
   "checkout.client.generic": "Bir sorun oluştu. Lütfen tekrar deneyin.",
   "checkout.client.errors.MISSING_REQUIRED_FIELDS": "Lütfen adınızı ve e-posta adresinizi girin.",
   "checkout.client.errors.INVALID_EMAIL": "Lütfen geçerli bir e-posta adresi girin.",

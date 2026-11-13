@@ -23,6 +23,8 @@
   "checkout.client.reference": "Bestillingsnummer: {id}",
   "checkout.client.viewTickets": "Se billettene dine",
   "checkout.client.viewInvoice": "Se eller avbestill bestillingen",
+  "checkout.client.submitInvoice": "Reserver plassene mine",
+  "checkout.client.noteInvoice": "Plassene dine er reservert med en gang. Du får betalingsopplysningene på e-post.",
   "checkout.client.generic": "Noe gikk galt. Prøv igjen.",
   "checkout.client.errors.MISSING_REQUIRED_FIELDS": "Fyll inn navn og e-postadresse.",
   "checkout.client.errors.INVALID_EMAIL": "Skriv inn en gyldig e-postadresse.",

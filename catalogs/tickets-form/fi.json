@@ -23,6 +23,8 @@
   "checkout.client.reference": "Tilausnumero: {id}",
   "checkout.client.viewTickets": "Katso lippusi",
   "checkout.client.viewInvoice": "Katso tai peru tilauksesi",
+  "checkout.client.submitInvoice": "Varaa paikkani",
+  "checkout.client.noteInvoice": "Paikkasi varataan heti. Saat maksutiedot sähköpostitse.",
   "checkout.client.generic": "Jokin meni vikaan. Yritä uudelleen.",
   "checkout.client.errors.MISSING_REQUIRED_FIELDS": "Täytä nimesi ja sähköpostiosoitteesi.",
   "checkout.client.errors.INVALID_EMAIL": "Anna kelvollinen sähköpostiosoite.",

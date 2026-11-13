@@ -23,6 +23,8 @@
   "checkout.client.reference": "Ordrenummer: {id}",
   "checkout.client.viewTickets": "Se dine billetter",
   "checkout.client.viewInvoice": "Se eller annuller din ordre",
+  "checkout.client.submitInvoice": "Reservér mine pladser",
+  "checkout.client.noteInvoice": "Dine pladser er reserveret med det samme. Du får betalingsoplysningerne på e-mail.",
   "checkout.client.generic": "Noget gik galt. Prøv igen.",
   "checkout.client.errors.MISSING_REQUIRED_FIELDS": "Udfyld dit navn og din e-mailadresse.",
   "checkout.client.errors.INVALID_EMAIL": "Angiv en gyldig e-mailadresse.",

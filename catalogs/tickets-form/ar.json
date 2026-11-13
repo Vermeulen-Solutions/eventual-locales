@@ -23,6 +23,8 @@
   "checkout.client.reference": "رقم الطلب: {id}",
   "checkout.client.viewTickets": "اعرض تذاكرك",
   "checkout.client.viewInvoice": "اعرض طلبك أو ألغِه",
+  "checkout.client.submitInvoice": "احجز أماكني",
+  "checkout.client.noteInvoice": "أماكنك محجوزة فورًا. ستصلك تفاصيل الدفع بالبريد الإلكتروني.",
   "checkout.client.generic": "حدث خطأ ما. يُرجى المحاولة مرة أخرى.",
   "checkout.client.errors.MISSING_REQUIRED_FIELDS": "يُرجى إدخال اسمك وبريدك الإلكتروني.",
   "checkout.client.errors.INVALID_EMAIL": "يُرجى إدخال بريد إلكتروني صالح.",

@@ -23,6 +23,8 @@
   "checkout.client.reference": "주문 번호: {id}",
   "checkout.client.viewTickets": "티켓 보기",
   "checkout.client.viewInvoice": "주문 확인 또는 취소",
+  "checkout.client.submitInvoice": "자리 예약하기",
+  "checkout.client.noteInvoice": "자리가 바로 예약됩니다. 결제 정보는 이메일로 보내 드립니다.",
   "checkout.client.generic": "문제가 발생했습니다. 다시 시도해 주세요.",
   "checkout.client.errors.MISSING_REQUIRED_FIELDS": "이름과 이메일 주소를 입력해 주세요.",
   "checkout.client.errors.INVALID_EMAIL": "올바른 이메일 주소를 입력해 주세요.",

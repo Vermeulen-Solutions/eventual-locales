@@ -23,6 +23,8 @@
   "checkout.client.reference": "Referência do pedido: {id}",
   "checkout.client.viewTickets": "Ver seus ingressos",
   "checkout.client.viewInvoice": "Ver ou cancelar seu pedido",
+  "checkout.client.submitInvoice": "Reservar minhas vagas",
+  "checkout.client.noteInvoice": "Suas vagas ficam reservadas na hora. Você recebe os dados de pagamento por e-mail.",
   "checkout.client.generic": "Algo deu errado. Tente novamente.",
   "checkout.client.errors.MISSING_REQUIRED_FIELDS": "Preencha seu nome e endereço de email.",
   "checkout.client.errors.INVALID_EMAIL": "Digite um endereço de email válido.",

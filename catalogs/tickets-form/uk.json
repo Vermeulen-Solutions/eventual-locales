@@ -23,6 +23,8 @@
   "checkout.client.reference": "Номер замовлення: {id}",
   "checkout.client.viewTickets": "Переглянути квитки",
   "checkout.client.viewInvoice": "Переглянути або скасувати замовлення",
+  "checkout.client.submitInvoice": "Забронювати мої місця",
+  "checkout.client.noteInvoice": "Ваші місця заброньовано одразу. Платіжні реквізити надійдуть електронною поштою.",
   "checkout.client.generic": "Щось пішло не так. Спробуйте ще раз.",
   "checkout.client.errors.MISSING_REQUIRED_FIELDS": "Введіть своє ім'я та адресу електронної пошти.",
   "checkout.client.errors.INVALID_EMAIL": "Введіть коректну адресу електронної пошти.",
