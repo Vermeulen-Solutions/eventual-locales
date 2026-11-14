@@ -2,6 +2,8 @@
 
 Translations for the Eventual RSVP EmDash plugins (Eventual RSVP, Eventual RSVP – Tickets, Eventual RSVP – Registrations), plus the small message runtime they share.
 
+**Website:** [eventual.rsvp](https://eventual.rsvp/), where the plugins these translations belong to are documented.
+
 Each plugin ships with English built in. Other languages are downloaded as data, so adding a language does not make a plugin bundle any larger. That matters because the EmDash sandbox limits each file to 128 KiB.
 
 ## Languages
